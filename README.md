@@ -1,2 +1,4 @@
 # Global-Olympic-Dataset-Diagnosis-using-Power-BI
-With Dynamic Visualizations, Interactive Filters, and Detailed Reports and Informative Experience Of Olympic Sports.
+WITH DYNAMIC VISUALIZATIONS, INTERACTIVE FILTERS, and DETAILED REPORTS, experience the INFORMATIVE WORLD OF OLYMPIC SPORTS.
+
+
